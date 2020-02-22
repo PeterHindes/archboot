@@ -6,7 +6,7 @@
 
 ## Requirements
 
-The only thing you need is one **USB bootable device** of [Arch Linux](https://mir.archlinux.fr/iso/latest) and one **HDD dedicated** for the installation.
+The only thing you need is one **USB bootable device** of [Arch Linux](https://mir.archlinux.fr/iso/latest).
 
 * USB Boot instructions for [Windows](https://rufus.akeo.ie/?locale=fr_FR) or for [Linux](https://debian-facile.org/doc:install:usb-boot)
 
@@ -27,13 +27,14 @@ The only thing you need is one **USB bootable device** of [Arch Linux](https://m
 * [Display Manager](https://github.com/grm34/archboot/wiki/Display-Manager)
 * [Language code](https://github.com/grm34/archboot/wiki/Language-code)
 * [TimeZone code](https://github.com/grm34/archboot/wiki/TimeZone-code)
+* [Custom Partitioning](https://github.com/grm34/archboot/wiki/Custom-Partitioning)
 * [List of installed Packages](https://github.com/grm34/archboot/wiki/List-of-installed-Packages)
 * [VGA Drivers](https://wiki.archlinux.org/index.php/Xorg#Driver_installation) open source and proprietary support available
 * [Bumblebee](https://wiki.archlinux.org/index.php/Bumblebee) support available in case of Intel+nVidia controller
 
 ## Logs
 
-Take a look in **/var/log/archboot** for logs: `cat /var/log/archboot/archboot_*.log`
+Take a look in **/var/log/archboot** for logs: `cat /var/log/archboot/archboot*.log`
 
 ## Screenshot
 
