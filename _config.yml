@@ -2,7 +2,7 @@ title: archboot
 description: Arch Linux Installer
 url: https://www.archboot.org
 image: /assets/images/logo.png
-favicon: /assets/images/favicon.ico
+logo: /assets/images/favicon.ico
 author: grm34
 lang: en-US
 theme: jekyll-theme-slate
