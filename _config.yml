@@ -3,8 +3,10 @@ description: Arch Linux Installer
 author: grm34
 tagline: t.me/archboot
 url: https://www.archboot.org
-logo: /assets/images/favicon.ico
+logo: /assets/images/logo.png
 image: /assets/images/logo.png
+favicon: /assets/images/favicon.ico
+lang: en-US
 theme: jekyll-theme-slate
 show_downloads: True
 plugins:
