@@ -7,6 +7,7 @@ author: grm34
 lang: en-US
 theme: jekyll-theme-slate
 show_downloads: True
+google_analytics: UA-162039588-1
 plugins:
   - jekyll-seo-tag
 github:
