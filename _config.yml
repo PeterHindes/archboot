@@ -6,3 +6,6 @@ author: grm34
 url: https://grm34.github.io/archboot/
 plugins:
   - jekyll-seo-tag
+github:
+  zip_url: https://github.com/grm34/archboot/archive/v2.8.5.zip
+  tar_url: https://github.com/grm34/archboot/archive/v2.8.5.tar.gz
