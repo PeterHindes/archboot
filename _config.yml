@@ -1,11 +1,9 @@
 title: archboot
 description: Arch Linux Installer
-author: grm34
-tagline: t.me/archboot
 url: https://www.archboot.org
-logo: /assets/images/logo.png
 image: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
+author: grm34
 lang: en-US
 theme: jekyll-theme-slate
 show_downloads: True
