@@ -12,13 +12,13 @@ and in order to get complete support, additional packages may be required.
 
 ## Requirements
 
-The only thing you need is one **USB bootable device** of [Arch Linux](https://mir.archlinux.fr/iso/latest)
+The only thing you need is one USB bootable device of [Arch Linux](https://mir.archlinux.fr/iso/latest)
 
 ## Usage
 
 **1.** Reboot computer, open Boot Selection Menu and boot on the USB device
 
-**2.** On the install menu of Arch Linux, select Boot Arch Linux (x86_64)
+**2.** On the install menu of Arch Linux, select **Boot Arch Linux (x86_64)**
 
 > For AZERTY keyboard run: *`loqdkeys fr`*
 
