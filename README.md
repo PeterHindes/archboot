@@ -1,6 +1,6 @@
 ## Arch Linux Installer
 
-[![version](https://img.shields.io/badge/version-v2.8.5-blue.svg)](https://github.com/grm34/archboot/releases)[![Build Status](https://travis-ci.org/grm34/archboot.svg?branch=master)](https://travis-ci.org/grm34/archboot)[![author](https://img.shields.io/badge/author-grm34-red.svg)](https://github.com/grm34)[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/grm34/archboot/blob/master/LICENSE)[![telegram](https://img.shields.io/badge/Telegram-chat-red)](https://t.me/archboot)[![maintenance](https://img.shields.io/maintenance/yes/2020.svg)](https://github.com/grm34/archboot/pulse)
+[![version](https://img.shields.io/badge/version-v2.8.5-blue.svg?style=flat&logo=appveyor)](https://github.com/grm34/archboot/releases) [![author](https://img.shields.io/badge/author-grm34-red.svg?style=flat&logo=appveyor)](https://github.com/grm34) [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat&logo=appveyor)](https://github.com/grm34/archboot/blob/master/LICENSE) [![telegram](https://img.shields.io/badge/Telegram-chat-red?style=flat&logo=appveyor)](https://t.me/archboot) [![maintenance](https://img.shields.io/maintenance/yes/2020.svg?style=flat&logo=appveyor)](https://github.com/grm34/archboot/pulse)
 
 Arch Linux is a light and fast distribution whose concept is to remain as
 simple as possible. In the same purpose, this script performs minimalist
@@ -14,7 +14,7 @@ and in order to get complete support, additional packages may be required.
 
 The only thing you need is one **USB bootable device** of [Arch Linux](https://mir.archlinux.fr/iso/latest)
 
-* USB Boot instruction for [Windows](https://rufus.ie/) or [Linux](https://wiki.archlinux.org/index.php/USB_flash_installation_media)
+> USB Boot instruction for [Windows](https://rufus.ie/) or [Linux](https://wiki.archlinux.org/index.php/USB_flash_installation_media)
 
 ## Usage
 
@@ -22,9 +22,9 @@ The only thing you need is one **USB bootable device** of [Arch Linux](https://m
 
 **2.** On the install menu of Arch Linux, select Boot Arch Linux (x86_64)
 
-**3.** For AZERTY keyboard run: *`loqdkeys fr`*
+> For AZERTY keyboard run: *`loqdkeys fr`*
 
-**4.** Download and run archboot: *`wget tiny.cc/archboot; sh archboot`*
+**3.** Download and run archboot: *`wget tiny.cc/archboot-dev; sh archboot-dev`*
 
 ## Wiki
 
